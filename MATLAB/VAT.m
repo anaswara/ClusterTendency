@@ -1,3 +1,10 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Description : Algorithm for identifying the cluster tendency
+%               
+% Author : Sivanarayana Gaddam
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function [P,MST, clusters]=VAT(R);
 
 [N,M]=size(R);
